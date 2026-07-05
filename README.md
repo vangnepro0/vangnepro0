@@ -35,7 +35,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vangnepro0&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github.com/johntranotc/washmate-be" alt="washmate" />
 </p>
 
 ### 📫 Contact
