@@ -42,5 +42,5 @@
 
 - 📧 Email: [vangbmt2005@gmail.com](mailto:vangbmt2005@gmail.com)
 - 💼 LinkedIn: [Nghia Pham Trong](https://www.linkedin.com/in/nghia-pham-trong-255534302/)
-- 
+
 <p align="center"><i>Thanks for visiting my profile! ⭐</i></p>
