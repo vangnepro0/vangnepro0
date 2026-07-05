@@ -15,7 +15,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Software Engineering student at **FPT University**
-- 🚀 On my journey to becoming a **Back-Endk Developer**
+- 🚀 On my journey to becoming a **Back-End Developer**
 - 🔍 Currently exploring / researching **user data**
 - 🔧 Currently working on: **Wash Car** — a car wash booking application
 
