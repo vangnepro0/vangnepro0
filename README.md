@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Trọng Nghĩa 👋</h1>
-<h3 align="center">Full-stack Developer in the making | SE @ FPT University</h3>
+<h3 align="center">Back-End Developer in the making | SE @ FPT University</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nghia-pham-trong-255534302/">
@@ -15,7 +15,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Software Engineering student at **FPT University**
-- 🚀 On my journey to becoming a **Full-stack Developer**
+- 🚀 On my journey to becoming a **Back-Endk Developer**
 - 🔍 Currently exploring / researching **user data**
 - 🔧 Currently working on: **Wash Car** — a car wash booking application
 
@@ -42,7 +42,5 @@
 
 - 📧 Email: [vangbmt2005@gmail.com](mailto:vangbmt2005@gmail.com)
 - 💼 LinkedIn: [Nghia Pham Trong](https://www.linkedin.com/in/nghia-pham-trong-255534302/)
-
----
-
+- 
 <p align="center"><i>Thanks for visiting my profile! ⭐</i></p>
